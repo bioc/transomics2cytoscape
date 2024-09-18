@@ -15,7 +15,7 @@ citEntry(entry = "article",
          url = "https://www.nature.com/articles/s41540-024-00342-8",
          volume = "10",
          pages = "16",
-         textVersion = paste("Nishida K, Maruyama J, Kaizu K, Takahashi K, Yugi K.",
+         textVersion = paste("Nishida K, Maruyama J, Kaizu K, Takahashi K and Yugi K.",
                              "Transomics2cytoscape: an automated software for interpretable 2.5-dimensional visualization of trans-omic networks",
                              "npj Systems Biology and Applications 2024, 10, 16. https://doi.org/10.1038/s41540-024-00342-8")
          )

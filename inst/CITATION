@@ -1,0 +1,21 @@
+citHeader("To cite the transomics2cytoscape package in publications use:")
+
+citEntry(entry = "article",
+         title  = "Transomics2cytoscape: an automated software for interpretable 2.5-dimensional visualization of trans-omic networks",
+         author = personList(
+           person(given = "Kozo", family = "Nishida"),
+           person(given = "Junichi", family = "Maruyama"),
+           person(given = "Kazunari", family = "Kaizu"),
+           person(given = "Koichi", family = "Takahashi"),
+           person(given = "Katsuyuki", family = "Yugi")
+         ),
+         journal = "npj Systems Biology and Applications",
+         year = "2024",
+         doi = "10.1038/s41540-024-00342-8",
+         url = "https://www.nature.com/articles/s41540-024-00342-8",
+         volume = "10",
+         pages = "16",
+         textVersion = paste("Nishida K, Maruyama J, Kaizu K, Takahashi K, Yugi K.",
+                             "Transomics2cytoscape: an automated software for interpretable 2.5-dimensional visualization of trans-omic networks",
+                             "npj Systems Biology and Applications 2024, 10, 16. https://doi.org/10.1038/s41540-024-00342-8")
+         )
